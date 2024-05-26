@@ -19,7 +19,7 @@
 
 
 ### Connect with Me :
-<a href="https://t.me/khaledfadel" target="_blank"><img src="https://img.shields.io/badge/-Khaled%20Fadel-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://t.me/Khaled_M_Fadel" target="_blank"><img src="https://img.shields.io/badge/-Khaled%20Fadel-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 
 ### 🛠 &nbsp;Tech Stack
